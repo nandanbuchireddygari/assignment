@@ -2,3 +2,5 @@ abc123
 hello git
 
 commit 1
+
+commit 2
